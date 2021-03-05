@@ -2,4 +2,4 @@
 A simple dockerized node webapp
 
 # CI
-AWS codebuild handles CI refer to buildspec.yml file for details
+AWS codebuild handles CI. Refer to buildspec.yml file for details
